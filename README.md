@@ -32,3 +32,4 @@ print("{:.2f}".format(distance))
 
 
 ### RESULT:
+Distance between two point is calculated using python.
